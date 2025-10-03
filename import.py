@@ -1,3 +1,3 @@
 from hello import fa
 
-fa("Pakistan")
+fa("Pak")
