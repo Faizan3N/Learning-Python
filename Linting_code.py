@@ -1,5 +1,6 @@
 # print "hello World"
 
-x = 2 + 9
+x = "Welcome To Python app.py"
 
-print (x)
+print(x)
+print(len(x))
